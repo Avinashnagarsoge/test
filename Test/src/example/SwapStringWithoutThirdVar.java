@@ -15,7 +15,7 @@ public class SwapStringWithoutThirdVar {
 		
 		a=a.substring(b.length());
 		
-		 System.out.println("\nAfter swap: a = "+a+" and b = "+b); 
+		 System.out.println("\nAfter swap: a = "+a+" andd b = "+b); 
 		
 	}
 
